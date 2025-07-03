@@ -2,7 +2,7 @@
 # LeetCode Algorithms
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-682/2813-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-752/3215-1abc9c.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-234-1abc9c.svg)
 
 
 
