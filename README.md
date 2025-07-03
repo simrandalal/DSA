@@ -1,4 +1,20 @@
 # DSA
+This repository contains my practice solutions for Data Structures and Algorithms (DSA) problems. The solutions are mainly implemented in Java, with a focus on improving my problem-solving skills for coding interviews and competitive programming.
+
+## 📌 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Stack & Queue
+- Recursion and Backtracking
+
+👉 All problems are organized inside the `src` folder based on their topics for better clarity 
+
 # LeetCode Algorithms
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-234/2813-1f425f.svg)
